@@ -1,0 +1,13 @@
+Program
+Decl(int a)
+Decl(int b)
+Decl(float c)
+Assign(a)
+Block
+PrintStmt
+Block
+PrintStmt
+IfStmt
+Block
+WhileStmt
+ReturnStmt

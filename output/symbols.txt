@@ -1,0 +1,4 @@
+name	type	offset
+a	int	0
+b	int	4
+c	float	8
