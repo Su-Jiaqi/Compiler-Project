@@ -1,0 +1,13 @@
+int a = 3;
+int b = 5;
+float c = 2.5;
+a = a + b * 2;
+if (a < 20) {
+    print a;
+} else {
+    print b;
+}
+while (a < 25) {
+    a += 1;
+}
+return a;

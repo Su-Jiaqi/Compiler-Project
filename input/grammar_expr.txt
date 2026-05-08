@@ -1,0 +1,4 @@
+# Classic expression grammar for LR(0)/SLR demonstration.
+E -> E + T | T
+T -> T * F | F
+F -> ( E ) | id
